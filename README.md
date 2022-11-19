@@ -105,7 +105,7 @@ gcc 写于 8 月 17 日
  </tr>
 </table>
 
-Translation Platform: **[Crowdin](https://crowdin.com/project/qv2ray)**
+Translation Platform: **[Crowdin](https://crowdin.com/project/qv2ray) **
 
 ## Special Thanks
 
